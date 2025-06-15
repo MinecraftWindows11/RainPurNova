@@ -1,2 +1,11 @@
 # RainPurNova
-一个测试用库。不建议fork它，因为它没有被fork的价值。
+
+### What's that?
+
+This is a repository, for some new try.
+
+### Can I fork that?
+
+Of course!(Sounds like nonsense) Because of the LICENSE, you can fork that.
+
+But I don't recommend it to fork. Because it don't have any purposes.
