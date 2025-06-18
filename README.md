@@ -2,7 +2,7 @@
 
 ### What's that?
 
-An simple HTML Website and some style for MirahezeBackrooms.
+An simple HTML Website and some style files for MirahezeBackrooms.
 
 In order to save resources, it doesn't stored in my GitHub Pages.
 
